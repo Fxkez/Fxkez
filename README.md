@@ -1,15 +1,5 @@
 <div align="center">
 
-
-```
-███████╗██╗  ██╗██╗  ██╗███████╗
-██╔════╝╚██╗██╔╝██║ ██╔╝██╔════╝
-█████╗   ╚███╔╝ █████╔╝ █████╗  
-██╔══╝   ██╔██╗ ██╔═██╗ ██╔══╝  
-██║     ██╔╝ ██╗██║  ██╗███████╗
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝
-```
-
 *`> whoami`* ✦ reverse engineer · security researcher · software developer
 
 </div>
@@ -19,14 +9,14 @@
 ## ✦ about me
 
 ```yaml
-role:       Reverse Engineer · Security Researcher · Dev
+role: Reverse Engineer · Security Researcher · Dev
 interests:
   - binary analysis & RE
   - vulnerability research
   - low-level systems
   - building tools that break things (ethically)
-currently:  hunting bugs and disassembling the world
-status:     always compiling...
+currently: hunting bugs and disassembling the world
+status: always compiling...
 ```
 
 <br clear="right"/>
@@ -66,10 +56,8 @@ status:     always compiling...
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fxkez&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&icon_color=bd93f9&text_color=f8f8f2)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fxkez&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a2e&title_color=ff79c6&text_color=f8f8f2)
-
+![Fxkez's Activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fxkez&theme=dracula)
+ 
 </div>
 
 ---
